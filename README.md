@@ -69,9 +69,17 @@ The database includes:
 
 ## 🧠 Lessons Learned
 - Practical SQL joins and subqueries
-- Use of views and indexing
 - Importance of planning schema and data relationships
 - Working with PostgreSQL and DBeaver for local + cloud-based workflows
+- Version Control: Improved my workflow with Git—especially staging, committing, and pushing updates responsibly to avoid repository errors.
+
+## Challenges and Lessons Learned
+Challenges Faced:
+-Complex Joins-Joining multiple tables with foreign key relationships while avoiding redundant or missing data was initially confusing.
+-Git Conflicts-Faced issues when pushing to GitHub due to conflicting README files and had to learn how to resolve them.
+
+
+
 
 ## 🔗 License
 This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
